@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hanoitower", "app.vcproj", "{50E8F352-DD3B-4B3B-8EA8-C33EC10DF9B1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		dbg = dbg
+		opt = opt
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{50E8F352-DD3B-4B3B-8EA8-C33EC10DF9B1}.dbg.ActiveCfg = dbg|Win32
+		{50E8F352-DD3B-4B3B-8EA8-C33EC10DF9B1}.dbg.Build.0 = dbg|Win32
+		{50E8F352-DD3B-4B3B-8EA8-C33EC10DF9B1}.opt.ActiveCfg = opt|Win32
+		{50E8F352-DD3B-4B3B-8EA8-C33EC10DF9B1}.opt.Build.0 = opt|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
