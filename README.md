@@ -48,8 +48,8 @@ Both versions solve the same mathematical puzzle and render solutions graphicall
 ## Requirements
 
 - **Windows**
-- **Microsoft Visual Studio** (any version supporting MFC)
-- **MFC** (included with Visual Studio)
+- **Microsoft Visual Studio**
+- **MFC** (for MFC version)
 
 <br />
 

@@ -47,7 +47,7 @@ latest info on corresponding values for different platforms.
 
 #include <tolc_register.h>
 #include <tolc_draw.h>
-#include <tolc_misc.h>
+#include <tolc_util.h>
 
 
 #if _MSC_VER>1310
