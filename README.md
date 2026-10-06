@@ -12,6 +12,12 @@ The Tower of Hanoi is a classic mathematical puzzle. This project implements it 
 
 <br />
 
+## About this project
+
+This project was built as a hands-on way to learn Windows GUI programming and compare two different frameworks side by side: **WinAPI** in C and **MFC** in C++. The same classic puzzle was implemented twice so the trade-offs in structure, abstraction, and development style could be explored directly.
+
+<br />
+
 ## Implementations
 
 ### MFC Version (C++)
